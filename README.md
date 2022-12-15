@@ -3,6 +3,7 @@
 
 |한국폴리텍대학 </br> Korea Polytechnics||
 |---|---|
+|![polytec](https://user-images.githubusercontent.com/101073973/207779501-3134acae-3e6f-42da-b924-b52ecc2394bf.svg)||
 |정식 명칭|학교법인 한국폴리텍대학|
 |한자 명칭|韓國ㅡ大學|
 |영문 명칭|Korea Polytechnics|
@@ -26,6 +27,10 @@
 |비전|혁신성장과 함께하는 일자리대학|
 |슬로건|평생기술로 평생직업을|
 |소재지|대학본부 - 인천광역시 부평구 무네미로 478 (구산동) </br> 인재원 - 전라북도 남원시 내척길 31 (용정동) </br> 신기술교육원 - 전라북도 전주시 덕진구 유상로 20 (팔복동2가)|
+|관련 웹사이트|[한국폴리텍대학 공식 홈페이지](http://www.kopo.ac.kr/)</br>[한국폴리텍대학 인재원 공식 홈페이지](http://www.kopo.ac.kr/namwon/index.do)|
+|공식 SNS|[네이버 블로그 아이콘 한국폴리텍대학 공식 블로그](https://blog.naver.com/love_kopo)</br>[유튜브 아이콘 한국폴리텍대학 공식 유튜브](https://www.youtube.com/channel/UCrIrj8hjj48Yulj9_oeYApQ)</br> [인스타그램 아이콘 한국폴리텍대학 공식 인스타그램](https://www.instagram.com/korea_polytechnics)</br>[페이스북 아이콘 한국폴리텍대학 공식 페이스북](https://www.facebook.com/koposns)|
+|관련 전화번호|대표전화: 032-650-6780</br>인재개발원: 063-620-9051|
+
 # 나무위키
 
 ## 폴리텍대학교 성남캠퍼스
